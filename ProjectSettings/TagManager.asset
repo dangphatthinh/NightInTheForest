@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Score
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: TreeBack
+    uniqueID: 4050928811
+    locked: 0
+  - name: TreeFont
+    uniqueID: 316298829
+    locked: 0
+  - name: Ground
+    uniqueID: 3378748919
+    locked: 0
+  - name: Grass
+    uniqueID: 2372921097
+    locked: 0
+  - name: Water
+    uniqueID: 1755946783
+    locked: 0
+  - name: FG
+    uniqueID: 4235218071
+    locked: 0
+  - name: UI
+    uniqueID: 1279972475
+    locked: 0
